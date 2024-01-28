@@ -1,1 +1,1 @@
-# kyrgyzminecraft
+# Minecraft in Kyrgyz
