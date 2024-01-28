@@ -1,7 +1,7 @@
 { "pack" : { "pack_format" : 22, "description" : "Kyrgyz" },
 "language":{
     "kg_kg":{
-        "name":"Кыргыз тили",
+        "name":"Кыргыз",
         "region":"Кыргызстан",
         "bidirectional":false
         }
