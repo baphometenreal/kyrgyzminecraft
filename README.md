@@ -4,3 +4,4 @@ Kyrgyzstan. The most beautiful country in the world (imo).
 Why is there not that big or an up to date translation of it?  
 Why is there no *official* translation of it into Kyrgyz?  
 Well here we are.
+This isn't by any means official, as in not endorsed by Mojang, but I do hope to have the most translated and most up to date translation.
