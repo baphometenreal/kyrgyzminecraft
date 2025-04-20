@@ -7,7 +7,7 @@ Minecraft. Бул дүйнөдөгү эң көп сатылган жалгыз �
 Бул Mojang же Microsoft тарабынан жактырылбагандай эле расмий эмес, бирок мен эң көп которулган жана эң заманбап котормо болот деп үмүттөнөм.
 ## Кантип орнотуу керек (кыргыз тилинде)
 1. "kyrgyzminecraft"тын акыркы версиясын бул жерден жүктөп алыңыз
-2. minecraftты 1.20дан 1.21ге чейинки версияда ишке киргизиңиз
+2. minecraftты 1.20дан 1.21.4ге чейинки версияда ишке киргизиңиз (Мен 1.21.5 өткөндү жаңыртпайм, анткени бул версияда жана xoxo тышында кыргызча расмий колдоо бар xoxo)
 3. "Resource packs" чыкылдатыңыз
 4. "Open pack folder" чыкылдатыңыз
 5. "kyrgyzminecraft vX" декомпрессыз
@@ -26,7 +26,7 @@ Well here we are.
 This isn't by any means official, as in not endorsed by Mojang or Microsoft, but I do hope to have the most translated and most up to date translation.
 ## How to install (in english)
 1. Download the latest release of "kyrgyzminecraft" from here
-2. Launch minecraft from version 1.20 to 1.21
+2. Launch minecraft from version 1.20 to 1.21.4 (i will not update past 1.21.5 due to the fact there is now official support for kyrgyz in this version and beyond xoxo)
 3. Go to "Resource packs"
 4. Click "Open pack folder"
 5. Unzip "kyrgyzminecraft vX"
