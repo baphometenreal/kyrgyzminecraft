@@ -16,7 +16,9 @@ Minecraft. Бул дүйнөдөгү эң көп сатылган жалгыз �
 8. Minecraft'ка кайтыңыз жана "Kyrgyz Minecraft v.X"ти иштетиңиз
 9. "Resource packs" чыгып, "Languages" баскычын чыкылдатыңыз
 10. "Кыргыз тили" көрүнгүчө ылдый сыдырып, аны эки жолу басыңыз.
-11. Оюн бир нече көз ирмемге катып калышы мүмкүн, эгер баары ойдогудай болсо, оюнду кыргызча ойносоңуз болот!  
+11. Оюн бир нече көз ирмемге катып калышы мүмкүн, эгер баары ойдогудай болсо, оюнду кыргызча ойносоңуз болот!
+## 1.20га чейинки версияларга кайрыласызбы?
+Ооба, акыры келет, бирок мен адегенде учурдагы версиялардын котормосун бүтүргүм келет.
 # Kyrgyz Minecraft (in English)
 Minecraft. It is the single best selling game in the world.  
 Kyrgyzstan. The most beautiful country in the world (imo).  
@@ -36,3 +38,5 @@ This isn't by any means official, as in not endorsed by Mojang or Microsoft, but
 9. Go out of "Resource packs" and click "Languages"
 10. Scroll down until you see "Кыргыз тили" and double click it
 11. The game may freeze for a few moments, and if everything worked you should be able to see the game in Kyrgyz!
+## Will you backport to versions before 1.20?
+Yes, I eventually will, but i want to finish the translation for the current versions first.
