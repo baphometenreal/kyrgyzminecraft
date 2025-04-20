@@ -1,4 +1,4 @@
-{ "pack" : { "pack_format" : 34, "min_inclusive": 15, "max_inclusive": 34, "description" : "Kyrgyz" },
+{ "pack" : { "pack_format" : 46, "min_inclusive": 15, "max_inclusive": 46, "description" : "Kyrgyz" },
 "language":{
     "kg_kg":{
         "name":"Кыргыз тили",
