@@ -2,8 +2,7 @@
 Minecraft. Бул дүйнөдөгү эң көп сатылган жалгыз оюн.  
 Кыргызстан. Дүйнөдөгү эң кооз өлкө (менин оюмча).  
 Эмне үчүн анын мынчалык чоң же заманбап котормосу жок?
-Эмне үчүн анын кыргызчага *расмий* котормосу жок? ~~азыр бар~~
-
+Эмне үчүн анын кыргызчага *расмий* котормосу жок? (~~азыр бар~~)
 Мына, биз келдик.
 Бул Mojang же Microsoft тарабынан жактырылбагандай эле расмий эмес, бирок мен эң көп которулган жана эң заманбап котормо болот деп үмүттөнөм.
 ## Кантип орнотуу керек (кыргыз тилинде)
@@ -22,8 +21,7 @@ Minecraft. Бул дүйнөдөгү эң көп сатылган жалгыз �
 Minecraft. It is the single best selling game in the world.  
 Kyrgyzstan. The most beautiful country in the world (imo).  
 Why is there not that big or an up to date translation of it?  
-Why is there no *official* translation of it into Kyrgyz? ~~there is now~~
-
+Why is there no *official* translation of it into Kyrgyz? (~~there is now~~)
 Well here we are.
 This isn't by any means official, as in not endorsed by Mojang or Microsoft, but I do hope to have the most translated and most up to date translation.
 ## How to install (in english)
